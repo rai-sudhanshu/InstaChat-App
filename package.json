@@ -11,7 +11,7 @@
     "nodejs",
     "socket.io"
   ],
-  "author": "Aayush Gupta",
+  "author": "Sudhanshu Ranjan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
